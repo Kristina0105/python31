@@ -1,1 +1,1 @@
-print("info from master1")
+print("end")
