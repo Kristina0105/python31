@@ -1,1 +1,1 @@
-print('hello from master')
+print("end")
